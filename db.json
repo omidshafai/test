@@ -49,7 +49,9 @@
       "id": 10,
       "title": "test10",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
+    }
+  ],
+  "posts2": [
     {
       "id": 11,
       "title": "test11",
@@ -74,9 +76,7 @@
       "id": 15,
       "title": "test15",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    }
-  ],
-  "posts2": [
+    },
     {
       "id": 16,
       "title": "test16",
@@ -101,7 +101,9 @@
       "id": 20,
       "title": "test20",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
+    }
+  ],
+  "posts3": [
     {
       "id": 21,
       "title": "test21",
@@ -136,80 +138,8 @@
       "id": 27,
       "title": "test27",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 28,
-      "title": "test28",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 29,
-      "title": "test29",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 30,
-      "title": "test30",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
     }
   ],
-  "posts3": [
-    {
-      "id": 31,
-      "title": "test31",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 32,
-      "title": "test32",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 33,
-      "title": "test33",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 34,
-      "title": "test34",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 35,
-      "title": "test35",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 36,
-      "title": "test36",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 37,
-      "title": "test37",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 38,
-      "title": "test38",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 39,
-      "title": "test39",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 40,
-      "title": "test40",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    },
-    {
-      "id": 41,
-      "title": "test41",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat ipsum ac nunc malesuada egestas. Suspendisse pharetra justo libero, sed posuere lacus semper sed. Phasellus et imperdiet purus."
-    }
-  ]
   "profile": {
     "name": "typicode"
   }
